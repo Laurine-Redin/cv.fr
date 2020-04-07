@@ -64,8 +64,8 @@ margin: 0 auto;
 .navbar
 {
 	background: #FAC921;
-	font-size: 12px;
-	letter-spacing: 2px;
+	font-size: 15px;
+	letter-spacing: 3px;
 	font-weight: bold;
 }
 
@@ -92,11 +92,6 @@ margin: 0 auto;
 	background: #fff;
 	border: 1px;
 	border-color: #FAC921;
-}
-
-.navbar-default .navbar-toggle
-{
-	border-style: none;
 }
 
 .icon-bar
