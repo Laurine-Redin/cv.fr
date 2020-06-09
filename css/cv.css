@@ -1,11 +1,15 @@
 /* CONTACTS */
+#contacts
+{
+	background: #FAC921;
+}
 #contacts .button
 {
 	font-weight: bold;
 	text-transform: uppercase;
-	color: #FAC921;
+	color: #fff;
 	display: inline-block;
-	border: 1px solid #FAC921;
+	border: 1px solid #fff;
 	margin-top: 20px;
 	padding: 18px;
 	border-radius: 3px;
@@ -14,8 +18,8 @@
 
 #contacts .button:hover
 {
-	background: #FAC921;
-	color: #fff;
+	background: #fff;
+	color: #FAC921;
 	text-decoration: none;
 }
 
@@ -215,7 +219,7 @@
 /* SKILLS LANGUES */
 #skillsLang
 {
-	background: #FAC921;
+	background: #fff;
 }
 
 #skillsLang h5
@@ -238,7 +242,12 @@
 
 #skillsLang .progress-bar
 {
-	background: #fff;
+	background: #FAC921;
+}
+
+#skillsLang img
+{
+	height: 20px;
 }
 
 /* PASSE TEMPS */
